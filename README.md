@@ -1,6 +1,8 @@
-# PPA of OpenCV 3.0
+# PPA of OpenCV 3.1
 
-This is a PPA of OpenCV 3.0 for Ubuntu trusty ported from [Debian's experimental OpenCV 3.0 package](https://packages.debian.org/experimental/python-opencv). Also provide the python3-opencv package.
+# UNTESTED AND APLHA STAGE
+
+This is a PPA of OpenCV 3.1 for Ubuntu trusty ported from [Debian's experimental OpenCV 3.0 package](https://packages.debian.org/experimental/python-opencv). Also provide the python3-opencv package.
 
 ## How to Use the PPA
 
@@ -17,8 +19,8 @@ $ sudo apt-get install python3-opencv
 ```
 $ git clone https://github.com/orangain/opencv-ppa
 $ cd opencv-ppa/
-$ wget http://http.debian.net/debian/pool/main/o/opencv/opencv_3.0.0+dfsg.orig.tar.xz
-$ tar xvf opencv_3.0.0+dfsg.orig.tar.xz -C opencv/ --strip 1
+$ wget 
+$ unzip 3.1.0 -d opencv/ 
 ```
 
 ### Build
