@@ -1,5 +1,3 @@
-/opencv/
-!/opencv/debian/
 /.vagrant/
 /*.build
 /*.orig.tar.xz
