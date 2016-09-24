@@ -6,4 +6,4 @@
 /*.changes
 /*.debian.tar.xz
 /*.ppa.upload
-/*.log
+*.log
